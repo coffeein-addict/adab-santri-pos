@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ghinaa.app"
-               BlueprintName = "ghinaa"
-               ReferencedContainer = "container:ghinaa.xcodeproj">
+               BuildableName = "AdabSantriPos.app"
+               BlueprintName = "AdabSantriPos"
+               ReferencedContainer = "container:AdabSantriPos.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ghinaaTests.xctest"
-               BlueprintName = "ghinaaTests"
-               ReferencedContainer = "container:ghinaa.xcodeproj">
+               BuildableName = "AdabSantriPosTests.xctest"
+               BlueprintName = "AdabSantriPosTests"
+               ReferencedContainer = "container:AdabSantriPos.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ghinaa.app"
-            BlueprintName = "ghinaa"
-            ReferencedContainer = "container:ghinaa.xcodeproj">
+            BuildableName = "AdabSantriPos.app"
+            BlueprintName = "AdabSantriPos"
+            ReferencedContainer = "container:AdabSantriPos.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ghinaa.app"
-            BlueprintName = "ghinaa"
-            ReferencedContainer = "container:ghinaa.xcodeproj">
+            BuildableName = "AdabSantriPos.app"
+            BlueprintName = "AdabSantriPos"
+            ReferencedContainer = "container:AdabSantriPos.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
